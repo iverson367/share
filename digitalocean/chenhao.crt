@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=cn, ST=hubei, L=wuhan, O=links, OU=links-wuhan, CN=links CA/name=server/emailAddress=iverson367@qq.com
+        Validity
+            Not Before: Sep 27 01:53:14 2017 GMT
+            Not After : Sep 25 01:53:14 2027 GMT
+        Subject: C=cn, ST=hubei, L=wuhan, O=links, OU=links-wuhan, CN=chenhao/name=server/emailAddress=iverson367@qq.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ab:55:52:ba:5f:e0:9e:51:fd:f0:40:a6:17:53:
+                    de:ee:f5:03:d4:f7:5a:d4:09:4d:d9:f8:dd:05:0e:
+                    5f:8d:da:92:4a:e3:ed:4f:83:64:7a:ba:ad:4c:f2:
+                    4a:0d:57:25:09:50:23:e1:48:60:3c:d0:e1:25:a2:
+                    97:b6:90:48:0c:ab:2c:c7:9a:55:03:5c:16:6d:19:
+                    3c:82:bd:e2:2b:39:e8:1c:cc:48:61:ad:36:ea:74:
+                    61:f3:67:b2:07:56:4c:45:a5:04:66:71:16:35:fb:
+                    7e:58:c3:f3:92:47:20:0b:c6:0e:1a:fe:05:7b:1c:
+                    55:0a:fa:62:af:9e:19:9a:e3:7d:e9:b1:43:52:6f:
+                    8e:82:a4:e2:d1:5b:1b:2d:df:c1:36:72:73:29:17:
+                    81:0b:4d:98:b6:71:a2:ce:b1:fc:a6:46:18:86:8e:
+                    32:c4:cf:90:83:18:9d:05:2b:04:ef:07:fc:9e:b4:
+                    85:37:c4:30:a7:cd:09:c2:89:e6:6c:0f:7c:06:83:
+                    07:f3:d1:b1:38:05:46:21:bc:cc:56:43:7f:58:be:
+                    3b:c0:a3:6d:8b:e8:bb:f7:c2:29:4a:34:6a:69:31:
+                    53:bd:71:24:93:99:54:61:d7:a0:78:00:8e:bc:c8:
+                    1d:96:a9:61:c9:e3:02:83:8c:51:17:a4:ed:7e:2d:
+                    e6:39
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                17:BB:76:9F:1B:FB:F5:B8:3E:3B:ED:BA:48:7E:8F:54:40:C9:A2:56
+            X509v3 Authority Key Identifier: 
+                keyid:EB:CA:19:A8:87:D1:74:07:00:19:BA:87:C0:4A:9E:DD:71:C5:B3:9A
+                DirName:/C=cn/ST=hubei/L=wuhan/O=links/OU=links-wuhan/CN=links CA/name=server/emailAddress=iverson367@qq.com
+                serial:BD:15:9E:58:20:14:4F:B8
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:chenhao
+    Signature Algorithm: sha256WithRSAEncryption
+         8a:f9:78:1e:1f:d2:73:29:f0:59:28:63:1d:06:86:c9:5e:25:
+         48:da:c8:6c:19:83:fb:14:f8:6c:98:88:7e:66:53:cf:e7:dc:
+         ea:b2:01:ca:d0:01:0c:ea:c1:31:20:a9:1e:74:56:10:4d:9c:
+         60:0e:2d:77:13:66:03:a1:c4:10:67:ef:d4:9f:20:97:e2:07:
+         75:30:77:cc:61:e2:e4:65:f1:e8:9f:13:82:32:fb:18:cb:fc:
+         d7:32:d8:89:1c:f9:74:25:1a:20:ef:eb:7f:fa:44:4f:cd:cf:
+         db:91:c5:84:3a:44:94:a0:be:b2:5b:64:4e:aa:48:ce:b6:fc:
+         b4:a8:16:7a:48:ea:00:40:f8:24:c4:77:fe:65:4c:14:e3:d4:
+         d2:14:77:29:79:14:4a:a9:6b:8d:ef:c4:3c:4e:47:35:66:fa:
+         c5:5c:59:8e:45:fd:e5:ef:fd:ca:49:0c:43:48:5e:4e:55:10:
+         b3:e6:ed:d1:97:c3:2a:98:08:b0:61:d5:71:4d:4c:08:5c:06:
+         da:d9:be:36:ca:33:22:ad:bb:22:98:17:9a:72:c3:52:c3:0b:
+         8a:b5:84:51:74:82:54:67:e7:d4:aa:6b:eb:4e:51:15:b8:ba:
+         e9:37:69:26:c4:6d:63:33:13:d0:76:03:6e:e2:75:d1:a7:f4:
+         00:4e:96:3d
+-----BEGIN CERTIFICATE-----
+MIIFFDCCA/ygAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCY24x
+DjAMBgNVBAgTBWh1YmVpMQ4wDAYDVQQHEwV3dWhhbjEOMAwGA1UEChMFbGlua3Mx
+FDASBgNVBAsTC2xpbmtzLXd1aGFuMREwDwYDVQQDEwhsaW5rcyBDQTEPMA0GA1UE
+KRMGc2VydmVyMSAwHgYJKoZIhvcNAQkBFhFpdmVyc29uMzY3QHFxLmNvbTAeFw0x
+NzA5MjcwMTUzMTRaFw0yNzA5MjUwMTUzMTRaMIGYMQswCQYDVQQGEwJjbjEOMAwG
+A1UECBMFaHViZWkxDjAMBgNVBAcTBXd1aGFuMQ4wDAYDVQQKEwVsaW5rczEUMBIG
+A1UECxMLbGlua3Mtd3VoYW4xEDAOBgNVBAMTB2NoZW5oYW8xDzANBgNVBCkTBnNl
+cnZlcjEgMB4GCSqGSIb3DQEJARYRaXZlcnNvbjM2N0BxcS5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCrVVK6X+CeUf3wQKYXU97u9QPU91rUCU3Z
++N0FDl+N2pJK4+1Pg2R6uq1M8koNVyUJUCPhSGA80OElope2kEgMqyzHmlUDXBZt
+GTyCveIrOegczEhhrTbqdGHzZ7IHVkxFpQRmcRY1+35Yw/OSRyALxg4a/gV7HFUK
++mKvnhma433psUNSb46CpOLRWxst38E2cnMpF4ELTZi2caLOsfymRhiGjjLEz5CD
+GJ0FKwTvB/yetIU3xDCnzQnCieZsD3wGgwfz0bE4BUYhvMxWQ39YvjvAo22L6Lv3
+wilKNGppMVO9cSSTmVRh16B4AI68yB2WqWHJ4wKDjFEXpO1+LeY5AgMBAAGjggFk
+MIIBYDAJBgNVHRMEAjAAMC0GCWCGSAGG+EIBDQQgFh5FYXN5LVJTQSBHZW5lcmF0
+ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFBe7dp8b+/W4Pjvtukh+j1RAyaJWMIHO
+BgNVHSMEgcYwgcOAFOvKGaiH0XQHABm6h8BKnt1xxbOaoYGfpIGcMIGZMQswCQYD
+VQQGEwJjbjEOMAwGA1UECBMFaHViZWkxDjAMBgNVBAcTBXd1aGFuMQ4wDAYDVQQK
+EwVsaW5rczEUMBIGA1UECxMLbGlua3Mtd3VoYW4xETAPBgNVBAMTCGxpbmtzIENB
+MQ8wDQYDVQQpEwZzZXJ2ZXIxIDAeBgkqhkiG9w0BCQEWEWl2ZXJzb24zNjdAcXEu
+Y29tggkAvRWeWCAUT7gwEwYDVR0lBAwwCgYIKwYBBQUHAwIwCwYDVR0PBAQDAgeA
+MBIGA1UdEQQLMAmCB2NoZW5oYW8wDQYJKoZIhvcNAQELBQADggEBAIr5eB4f0nMp
+8FkoYx0GhsleJUjayGwZg/sU+GyYiH5mU8/n3OqyAcrQAQzqwTEgqR50VhBNnGAO
+LXcTZgOhxBBn79SfIJfiB3Uwd8xh4uRl8eifE4Iy+xjL/Ncy2Ikc+XQlGiDv63/6
+RE/Nz9uRxYQ6RJSgvrJbZE6qSM62/LSoFnpI6gBA+CTEd/5lTBTj1NIUdyl5FEqp
+a43vxDxORzVm+sVcWY5F/eXv/cpJDENIXk5VELPm7dGXwyqYCLBh1XFNTAhcBtrZ
+vjbKMyKtuyKYF5pyw1LDC4q1hFF0glRn59Sqa+tOURW4uuk3aSbEbWMzE9B2A27i
+ddGn9ABOlj0=
+-----END CERTIFICATE-----
